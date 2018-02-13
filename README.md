@@ -5,6 +5,7 @@
 ### 翻译资料
 -------
 [查询语句模块](https://github.com/ZhangYizhe/FreeRADIUS-Study/blob/master/查询语句模块.md)
+[FreeRADIUS流量控制](https://github.com/ZhangYizhe/FreeRADIUS-Study/blob/master/FreeRADIUS流量控制.md)
 
 ### 相关文件
 -------
